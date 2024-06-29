@@ -8,4 +8,5 @@ Após isso, entrar na classe e alterar o diretório de onde estará sendo baixad
 
 Após isso, executar o programa. 
 
-Atts, Caio Carnaúba. 
+Segue também relatório do trabalho como solicitado
+[Relatório trabalho.pdf](https://github.com/user-attachments/files/16038373/Relatorio.trabalho.pdf)
