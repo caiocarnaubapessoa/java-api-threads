@@ -1,4 +1,4 @@
-Prezados, boa noite!
+Professor, boa noite!
 
 Para que seja possível executar o código é necessário criar um projeto JAVA MAEVEN:
 
